@@ -4,7 +4,7 @@ function Products() {
   return (
     <div className='products'>
       <h1>Products</h1>
-      <p><b>Welcome to the Resources Page.!</b></p>
+      <p><b>Welcome to the Products Page.!</b></p>
     </div>
   );
 }

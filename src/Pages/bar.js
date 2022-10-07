@@ -5,7 +5,7 @@ import '../App.css';
 function Bar() {
   return (
     <div className="App">
-      <p>This is supposedly the login replacement page.!</p>
+      <p>Dummy Page to test page routing from time to time</p>
     </div>
   );
 }
